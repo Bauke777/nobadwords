@@ -1,0 +1,15 @@
+{
+    "name": "nobadwords",
+    "version": "1.0.0",
+    "description": "Custom package for finding vowels",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "Bauke Posthuma",
+    "license": "ISC",
+    "dependencies": {
+        "repeat-string": "^1.6.1"
+    }
+}
