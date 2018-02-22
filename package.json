@@ -6,9 +6,9 @@
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "keywords": [],
-    "author": "Bauke Posthuma",
-    "license": "ISC",
+    "keywords": ["bad language", "filter", "censor", "replace string"],
+    "author": "Bauke Posthuma <baukeposthuma@gmail.com>",
+    "license": "MIT",
     "dependencies": {
         "repeat-string": "^1.6.1"
     }
